@@ -1,0 +1,15 @@
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\bin\Debug\net6.0\CustomDelegates.exe
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\bin\Debug\net6.0\CustomDelegates.deps.json
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\bin\Debug\net6.0\CustomDelegates.runtimeconfig.json
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\bin\Debug\net6.0\CustomDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\bin\Debug\net6.0\CustomDelegates.pdb
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.csproj.AssemblyReference.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.AssemblyInfoInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.AssemblyInfo.cs
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.csproj.CoreCompileInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\refint\CustomDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.pdb
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\CustomDelegates.genruntimeconfig.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\CustomDelegates\obj\Debug\net6.0\ref\CustomDelegates.dll
