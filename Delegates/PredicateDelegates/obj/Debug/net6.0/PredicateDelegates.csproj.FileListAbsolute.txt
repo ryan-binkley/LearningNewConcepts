@@ -1,0 +1,15 @@
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.csproj.AssemblyReference.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.AssemblyInfoInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.AssemblyInfo.cs
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.csproj.CoreCompileInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\bin\Debug\net6.0\PredicateDelegates.exe
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\bin\Debug\net6.0\PredicateDelegates.deps.json
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\bin\Debug\net6.0\PredicateDelegates.runtimeconfig.json
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\bin\Debug\net6.0\PredicateDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\bin\Debug\net6.0\PredicateDelegates.pdb
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\refint\PredicateDelegates.dll
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.pdb
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\PredicateDelegates.genruntimeconfig.cache
+C:\Users\cools\Desktop\C#_Stuff\AvaloniaApps\LearningNewConcepts\Delegates\PredicateDelegates\obj\Debug\net6.0\ref\PredicateDelegates.dll
